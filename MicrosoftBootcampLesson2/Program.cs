@@ -1,0 +1,6 @@
+﻿Console.WriteLine("Hello, World!");
+
+const int myInt = 5;
+
+Console.WriteLine(myInt);
+Console.ReadKey();
